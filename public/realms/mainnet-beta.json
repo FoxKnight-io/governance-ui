@@ -55,6 +55,19 @@
     "shortDescription": "A small but mighty developer DAO! 🚀 We're like the little engines that could, tirelessly building, testing, and occasionally chewing glass to create a better ecosystem"
   },
   {
+    "symbol": "POLL",
+    "displayName": "POLL",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "WUd1MpRwqw15cJpodXBiuyGv3rqYW99weEqrvkZpYFW",
+    "bannerImage": "/realms/Poll DAO/Vote Vote Vote.png",
+    "website": "-",
+    "twitter": "@PollDAO",
+    "discord": "-",
+    "ogImage": "/realms/Poll DAO/poll.jpg",
+    "github": "-",
+    "shortDescription": "Poll it"
+  },
+  {
     "symbol": "Dean's List Network State",
     "displayName": "Dean's List Network State",
     "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
@@ -104,6 +117,14 @@
     "twitter": "@mangomarkets",
     "discord": "https://discord.com/invite/2uwjsBc5yw",
     "github": "https://github.com/blockworks-foundation/"
+  },
+  {
+    "symbol": "OBV2",
+    "category": "defi",
+    "displayName": "OpenBook V2 Council",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "EVDdDLdhSMU8nzLEmoRMuH7rReXXgDibAtTPg66m4JHW",
+    "communityMint": "A5tGJvsUpehqSzzWY2whuPfBvBXTRQsUCDcjZ2HC479m"
   },
   {
     "symbol": "XAND",
@@ -345,6 +366,15 @@
     "website": "https://raindrops.xyz",
     "twitter": "@only_raindrops",
     "github": "https://github.com/raindrops-protocol/raindrops"
+  },
+  {
+    "symbol": "FABS",
+    "displayName": "Founders Wif Abs",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "2iWqzA6j5jDVsbVjBJHM2DFX4qJX7AAohArAR8VLDVV6",
+    "ogImage": "/realms/FABS/img/fabio.png",
+    "bannerImage": "/realms/FABS/img/fabs-banner.jpeg",
+    "twitter": "@fabsonsol"
   },
   {
     "symbol": "UkraineUnchained",
@@ -1489,20 +1519,6 @@
     "twitter": "@lighthouse_dao",
     "discord": "https://discord.gg/Bv8JhaPF",
     "github": "https://github.com/sher9n/Lighthouse"
-  },
-  {
-    "symbol": "Drift Protocol",
-    "bannerImage": "https://i.imgur.com/b9pPf3S.png",
-    "displayName": "Drift Protocol",
-    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
-    "realmId": "9nUyxzVL2FUMuWUiVZG66gwK15CJiM3PoLkfrnGfkvt6",
-    "ogImage": "https://i.imgur.com/HnF1Zzy.png",
-    "shortDescription": "A lightning-fast and scalable perpetual futures DEX.",
-    "sortRank": 3,
-    "website": "https://www.drift.trade/",
-    "twitter": "@DriftProtocol",
-    "discord": "http://discord.com/invite/drifting",
-    "github": "https://github.com/drift-labs/protocol-v2"
   },
   {
     "symbol": "Zeta Markets",
@@ -3244,6 +3260,32 @@
     "twitter": "@pawnspl24",
     "ogImage": "/realms/PAWN/img/pawn.png"
   },
+{
+    "symbol": "PAWNGO",
+    "displayName": "Pawngo DAO",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "shortDescription": "A very good girl.",
+    "discord": "https://discord.gg/Td7QFn2ePz",
+    "bannerImage": "/realms/PAWNGO/img/pawngodao.png",
+    "category": "Memecoin",
+    "sortRank": 3, 
+    "realmId": "2cS5Epb9b1hGifzWi6iYmpHbNueM9FReh8kqNaKrcTFJ",
+    "twitter": "@pawnspl24",
+    "ogImage": "/realms/PAWNGO/img/pawngo.png"
+  },
+  {
+    "symbol": "GCDC",
+    "displayName": "Gay Coinz DAO Coin",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "shortDescription": "We're gonna need a bigger tote!",
+    "discord": "",
+    "bannerImage": "/realms/GCDC/img/gaycoinz-banner.png",
+    "category": "Web3",
+    "sortRank": 3, 
+    "realmId": "5aXNavdJkzp8j2kPbvQbf15kmxdqJgjXJ8CqJ4S1ZTpG",
+    "twitter": "",
+    "ogImage":"/realms/GCDC/img/gaycoinz-logo.png"
+  },
   {
     "symbol": "COMRADE",
     "displayName": "ComradeDAO",
@@ -3455,5 +3497,66 @@
     "realmId": "GgF6fHb3iM3Um5DtvwbZvpGpYTzYnr1RmZr4NkwHveGp",
     "website": "",
     "twitter": ""
+  },
+  {
+    "symbol": "sinDAO",
+    "displayName": "sinDAO",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "7boMaQ9LG3eHXEsiWWWs7RDP2Z8ASJ3wJevTmuTh1qhL",
+    "ogImage": "/realms/sinDAO/sindao.png",
+    "website": "https://sindao.org",
+    "twitter": "@thesinDAO"
+   },
+   {
+    "symbol": "TNSR",
+    "category": "NFT",
+    "bannerImage": "https://i.imgur.com/PMLtfh6.png",
+    "displayName": "Tensor DAO",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "4sgAydAiSvnpT73rALCcnYGhi5K2LrB9pJFAEbLMfrXt",
+    "communityMint": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "ogImage": "https://i.imgur.com/IP2FsY7.png",
+    "shortDescription": "Future of NFT trading. Built on Solana.",
+    "website": "https://www.tensor.foundation",
+    "keywords": "Tensor, REALM, Governance, TNSR, Tensor NFT Marketplace, NFT, Crypto, Solana, SOL, Trading, Fastest, Fast",
+    "twitter": "@TensorFdn",
+    "discord": "https://discord.gg/a8spfqxEpC",
+    "github": "https://github.com/tensor-foundation"
+  },
+  {
+    "symbol": "Jito",
+    "displayName": "Jito",
+    "programId": "jtogvBNH3WBSWDYD5FJfQP2ZxNTuf82zL8GkEhPeaJx",
+    "realmId": "jjCAwuuNpJCNMLAanpwgJZ6cdXzLPXe2GfD6TaDQBXt",
+    "ogImage": "/realms/Jito/jito.png",
+    "website": "https://jito.network",
+    "twitter": "@jito_sol"
+  },
+   {
+    "symbol": "FIM",
+    "category": "defi",
+    "bannerImage": "/realms/FinanceIsMagic/Banner.png",
+    "displayName": "Finance Is Magic",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "JCv4VFAMUrwwGfjnRsS2DmujNEEfNs9KT3jentpQYnsg",
+    "communityMint": "64pwL5YCL1ctSVUpNsBAsw7V6ZPiZmrEJ1dNhdsQwKx2",
+    "ogImage": "/realms/FinanceIsMagic/Logo.png",
+    "shortDescription": "DeFi magic with memecoins and liquidity.",
+    "website": "https://fimcoin.com",
+    "keywords": "DeFi, REALM, Governance, FIM, Decentralized Finance, Crypto, Decentralize, Solana, SOL, SPL, Cross-Chain, Trading, SPL Tokens",
+    "twitter": "@financeismagic"
+  },
+   {
+    "symbol": "KING",
+    "displayName": "Mewfasa DAO",
+    "category": "web3",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "2Gn1tf4WyFv8tk4kzd7GZCrw44P5d3mq6qEzjWyq159H",
+    "bannerImage": "/realms/MewfasaDAO/banner-dao.jpg",
+    "ogImage": "/realms/MewfasaDAO/mewfasadao.jpg",
+    "twitter": "@MewfasaK53969",
+    "website": "https://mewfasa.fun/",
+    "shortDescription": "Mewfasa - The Lion Cat King",
+    "keywords": "Web3, Governance, Community, Solana"
   }
 ]

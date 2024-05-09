@@ -14,19 +14,21 @@ import * as PaymentStreaming from '@mean-dao/payment-streaming'
 // Alphabetical order
 export enum PackageEnum {
   Common,
+  Distribution,
   Dual,
   Foresight,
   GatewayPlugin,
   Identity,
-  NftPlugin,
   MangoMarketV4,
   MeanFinance,
+  NftPlugin,
   PsyFinance,
+  Pyth,
   Serum,
   Solend,
+  Squads,
   Switchboard,
   VsrPlugin,
-  Distribution,
 }
 
 export interface UiInstruction {
@@ -46,6 +48,12 @@ export interface SplTokenTransferForm {
   amount: number | undefined
   governedTokenAccount: AssetAccount | undefined
   programId: string | undefined
+  mintInfo: MintInfo | undefined
+}
+
+export interface BurnTokensForm {
+  amount: number | undefined
+  governedTokenAccount: AssetAccount | undefined
   mintInfo: MintInfo | undefined
 }
 
@@ -315,6 +323,7 @@ export interface JoinDAOForm {
 
 export enum Instructions {
   Base64,
+  Burn,
   ChangeMakeDonation,
   Clawback,
   CloseTokenAccount,
@@ -356,21 +365,15 @@ export enum Instructions {
   InitSolendObligationAccount,
   JoinDAO,
   MangoV4PerpCreate,
-  MangoV4PerpCreateV23,
   MangoV4PerpEdit,
-  MangoV4PerpEditV23,
   MangoV4OpenBookRegisterMarket,
   MangoV4OpenBookEditMarket,
   MangoV4TokenEdit,
-  MangoV4TokenEditV23,
   MangoV4TokenRegister,
-  MangoV4TokenRegisterV23,
   MangoV4TokenRegisterTrustless,
   MangoV4GroupEdit,
-  MangoV4GroupEditV23,
   IdlSetBuffer,
   MangoV4IxGateSet,
-  MangoV4IxGateSetV23,
   MangoV4AltSet,
   MangoV4AltExtend,
   MangoV4StubOracleCreate,
@@ -400,6 +403,10 @@ export enum Instructions {
   SerumInitUser,
   SerumUpdateGovConfigAuthority,
   SerumUpdateGovConfigParams,
+  SquadsMeshAddMember,
+  SquadsMeshChangeThresholdMember,
+  SquadsMeshRemoveMember,
+  PythRecoverAccount,
   StakeValidator,
   SwitchboardFundOracle,
   WithdrawFromOracle,
